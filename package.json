@@ -1,17 +1,17 @@
 {
-	"name": "@natoboram/lmgtfy",
+	"name": "@cog-creators/lmgtfy",
 	"version": "0.0.2",
-	"description": "A \"Let Me Google That For You\" clone that's open source and doesn't track you when you share it.",
+	"description": "A fork of https://github.com/NatoBoram/lmgtfy that we host on our GitHub Pages namespace to have it reliably be in our infrastructure.",
 	"keywords": [
 		"Google",
 		"LMGTFY"
 	],
-	"homepage": "https://github.com/NatoBoram/lmgtfy",
+	"homepage": "https://github.com/Cog-Creators/lmgtfy",
 	"bugs": {
-		"url": "https://github.com/NatoBoram/lmgtfy/issues"
+		"url": "https://github.com/Cog-Creators/lmgtfy/issues"
 	},
 	"license": "AGPL-3.0-or-later",
-	"repository": "github:NatoBoram/lmgtfy",
+	"repository": "github:Cog-Creators/lmgtfy",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
